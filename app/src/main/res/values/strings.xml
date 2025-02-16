@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Submision story app</string>
+    <string name="daftar">Daftar</string>
+    <string name="masuk">Masuk</string>
+    <string name="massage_welcome">Buat momen mu bersama Dicoding Story App</string>
+    <string name="message_login_page">Masuk untuk melanjutkan</string>
+    <string name="judul_welcome">Selamat Datang di Dicoding Story App</string>
+    <string name="judul_daftar">Lengkapi data dirimu</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="judul_login">Ayo Lanjutkan ceritamu</string>
+    <string name="login">Login</string>
+    <string name="name">Nama</string>
+    <string name="story_name">Judul Story</string>
+    <string name="description">Deskripsi</string>
+    <string name="add_story">Add Story</string>
+    <string name="logout">Logout</string>
+    <string name="camera">Kamera</string>
+    <string name="galery">Galeri</string>
+    <string name="add_desc">Tambah Deskripsi</string>
+    <string name="submit">Submit</string>
+    <string name="error">Gagal Menambah Story</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Maps</string>"
+    <string name="retry">Muat Ulang</string>
+
+</resources>
